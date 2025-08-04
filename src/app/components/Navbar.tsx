@@ -9,8 +9,8 @@ const navItems = [
   { label: 'Recruiting', href: '/recruiting' },
   { label: 'Products', href: '/products' },
   { label: 'Real Estate', href: '/real-estate' },
-  { label: 'Contact Us', href: '/contact' },
-  { label: 'Sign In', href: '/signin' },
+  { label: 'Contact Us', href: '/contact-us' },
+  { label: 'Sign In', href: '/sign-in' },
 ];
 
 export default function Navbar() {
