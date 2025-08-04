@@ -46,7 +46,7 @@ export default function Footer() {
              href="#" className="hover:text-white transition text-xl"><FaFacebookF /> 
             </Link>
             <Link href="#" className="hover:text-white transition text-xl"><FaLinkedin /></Link>
-            <Link href="#" className="hover:text-white transition text-xl hover:scale-y-150 "><FaYoutube /></Link>
+            <Link href="#" className="hover:text-white transition text-xl "><FaYoutube /></Link>
             <Link href="#" className="hover:text-white transition text-xl"><FaInstagram /></Link>
           </div>
         </div>

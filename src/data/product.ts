@@ -1,0 +1,68 @@
+const products = [
+  {
+    id: '1',
+    name: 'Premium Leather Wallet',
+    category: 'Accessories',
+    price: 49.99,
+    description: 'Handcrafted wallet made from genuine Italian leather.',
+    image: 'https://images.unsplash.com/photo-1548032885-b5e38734688a?auto=format&fit=crop&w=600&h=600&q=80',
+  },
+  {
+    id: '2',
+    name: 'Wireless Headphones',
+    category: 'Electronics',
+    price: 89.99,
+    description: 'Noise-cancelling Bluetooth headphones with deep bass.',
+    image: 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&h=600&q=80',
+  },
+  {
+    id: '3',
+    name: 'Smartwatch Pro X',
+    category: 'Electronics',
+    price: 199.99,
+    description: 'Track your fitness, heart rate, and messages in real time.',
+    image: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&h=600&q=80',
+  },
+  {
+    id: '4',
+    name: 'Eco-friendly Water Bottle',
+    category: 'Lifestyle',
+    price: 19.99,
+    description: 'Reusable stainless steel bottle, keeps drinks cold 24hrs.',
+    image: 'https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=600&h=600&q=80',
+  },
+  {
+    id: '5',
+    name: 'Designer Sunglasses',
+    category: 'Accessories',
+    price: 129.99,
+    description: 'UV protection lenses with polarized coating.',
+    image: 'https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=600&h=600&q=80',
+  },
+  {
+    id: '6',
+    name: 'Luxury Perfume',
+    category: 'Beauty',
+    price: 89.99,
+    description: 'Elegant fragrance with notes of jasmine and sandalwood.',
+    image: 'https://images.unsplash.com/photo-1592945403247-b9a5c8b9f8c0?auto=format&fit=crop&w=600&h=600&q=80',
+  },
+  {
+    id: '7',
+    name: 'Bluetooth Speaker',
+    category: 'Electronics',
+    price: 59.99,
+    description: '360° sound with deep bass and 12-hour battery life.',
+    image: 'https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=600&h=600&q=80',
+  },
+  {
+    id: '8',
+    name: 'Leather Backpack',
+    category: 'Accessories',
+    price: 149.99,
+    description: 'Premium leather backpack with laptop compartment.',
+    image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&h=600&q=80',
+  },
+];
+
+export default products ;
