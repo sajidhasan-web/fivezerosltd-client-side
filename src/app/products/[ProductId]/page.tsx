@@ -47,9 +47,7 @@ export default function ProductDetail({ params }: { params: { ProductId: string 
               </span>
             </div>
 
-            <button className="w-full py-3 px-6 bg-gradient-to-r from-emerald-500 to-teal-600 text-white font-semibold rounded-xl shadow hover:shadow-md hover:opacity-90 transition">
-              Add to Cart
-            </button>
+            
           </div>
         </div>
       </div>

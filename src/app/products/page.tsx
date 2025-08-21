@@ -4,16 +4,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import  products  from '@/data/product'; // Assuming products data is imported from a separate file
 
-// type Product = {
-//   id: string;
-//   name: string;
-//   category: string;
-//   price: number;
-//   description: string;
-//   image: string;
-// };
 
-// const products: Product[] = [
 //   {
 //     id: '1',
 //     name: 'Premium Leather Wallet',

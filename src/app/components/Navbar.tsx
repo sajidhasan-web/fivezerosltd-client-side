@@ -6,11 +6,10 @@ import { usePathname } from 'next/navigation';
 
 const navItems = [
   { label: 'Home', href: '/' },
-  { label: 'Recruiting', href: '/recruiting' },
-  { label: 'Products', href: '/products' },
-  { label: 'Real Estate', href: '/real-estate' },
-  { label: 'Contact Us', href: '/contact-us' },
-  { label: 'Sign In', href: '/sign-in' },
+  { label: 'About Us', href: '/about' },
+  { label: 'Services', href: '/services' },
+  { label: 'News', href: '/news' },
+  { label: 'Contact', href: '/contact' },
 ];
 
 export default function Navbar() {
